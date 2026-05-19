@@ -47,22 +47,22 @@ The database contains the following tables:
 ## 🔗 Entity Relationships
 Customers → Appointments ← Services
 
-One customer can have many appointments
-One service can have many appointments
-Each appointment belongs to one customer and one service
+-One customer can have many appointments
+-One service can have many appointments
+-Each appointment belongs to one customer and one service
 
 📚 Concepts Practiced
 
 This project helped practice:
 
-Bash scripting
-PostgreSQL commands
-SQL queries
-Primary and Foreign Keys
-Relational database design
-User input handling
-Conditional statements in Bash
-Database interaction using psql
+-Bash scripting
+-PostgreSQL commands
+-SQL queries
+-Primary and Foreign Keys
+-Relational database design
+-User input handling
+-Conditional statements in Bash
+-Database interaction using psql
 
 🎯 Certification Project
 
