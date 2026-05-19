@@ -48,7 +48,7 @@ The database contains the following tables:
 
 ```text
 Customers → Appointments ← Services
-
+---
 One customer can have many appointments
 One service can have many appointments
 Each appointment belongs to one customer and one service
